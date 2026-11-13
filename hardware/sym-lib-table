@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "SMBusPeek")(type "KiCad")(uri "${KIPRJMOD}/libs/SMBusPeek.kicad_sym")(options "")(descr "Lokale Symbole"))
+)

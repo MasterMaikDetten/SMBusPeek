@@ -1,0 +1,25 @@
+# Nichts Gebautes, nichts Heruntergeladenes ins Repo.
+# Norm- und Hersteller-PDFs liegen nur lokal (siehe datasheets/README.md).
+
+# PlatformIO
+.pio/
+compile_commands.json
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/ipch/
+.vscode/.browse.c_cpp.db*
+
+# Python (GUI)
+.venv/
+__pycache__/
+*.pyc
+
+# KiCad: lokale Sperr- und Zustandsdateien
+*.kicad_prl
+*.lck
+~*
+
+# Betriebssystem-Kram
+Thumbs.db
+desktop.ini
+.DS_Store
